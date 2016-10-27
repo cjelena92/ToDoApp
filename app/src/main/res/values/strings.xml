@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="add">New Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="txttitle">Title</string>
+    <string name="txtdescription">Description</string>
+</resources>
